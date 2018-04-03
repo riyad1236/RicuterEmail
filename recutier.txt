@@ -1,0 +1,62 @@
+
+
+Responsibilities
+
+Basic understanding of front-end technologies and platforms, such as JavaScript, HTML5, and CSS3.
+Good understanding of server-side CSS preprocessors, such as LESS and SASS .
+Data migration, transformation, and scripting.
+Setup and administration of backups.
+Outputting data in different formats.
+Proficient knowledge of a back-end programming language {{Depending on the specific case, a developer should have 
+the knowledge of one or more of PHP, Python, Ruby, Java, .NET, JavaScript etc.}}.
+============================================================================================================================================
+Position:
+Job Title: PL/SQL Developer
+Job Location: Pennington, NJ
+Duration: Fulltime Permanent Hire
+Compensation: Base Salary + Benefits
+ 
+No Sponsorship Available
+
+Job Description:
+
+ 
+"•Ideal candidate should have 7+ years of total Oracle Apps experience with an emphasis on Oracle E-business suite/ Oracle Financials.
+•Good communications skills are essential as this is a business interfacing role.
+•The successful candidate will have proven experience in working in Oracle Apps gathering requirements and experience with Oracle AIM methodology.
+•Strong knowledge of PL/SQL, ETL, and SQL.
+•Strong debugging and problem solving skills.
+•Knowledge of web services.
+•Have 10+ years of Oracle development using SQL, PL/SQL, packages, procedures, functions.
+•Knowledge of Java - 1 or 2 years’ experience.
+•Agile/Scrum methodology experience a plus.
+==========================================================================================================================================================
+Role                 : QA Analyst
+Location           : Chicago IL
+Duration            : Permanent Fulltime position
+Visa                  : EAD-GC, GC, USC
+
+3+ years of Java/ Selenium/Cucumber experience
+6+ years of QA experience
+Create and maintain Automation frameworks using Java/Selenium/Cumber. Strong QA background and understanding of QA processes and procedures.
+
+======================================================================================================================================================
+Role Title: Selenium Automation Tester
+Location: Lake Mary, FL
+Duration: 9+ months (with Possible Extension)
+
+Need candidates on our W2 / No Corp to Corp allowed!!!!!!!!!
+Immediate/Phone Hire!!!
+
+Required Skills:
+•  Bachelor's degree, preferably in Computer Science, Information Technology, Computer Engineering, or related IT discipline; or equivalent experience.
+•  3-5 years of experience in Selenium Testing.
+•  Test plan creation, unit, integration, regression, and functional testing techniques.
+•  Web technologies and methodologies (XML, SOAP, REST, etc.).
+•  The successful candidate will have the ability to quickly learn application functionality through functional design specifications and working in conjunction with testing lead.
+•  Deep knowledge of test planning, test scenario design, execution, monitoring & reporting.
+• Experience and ability to work independently with little to no daily supervision as well as ability to provide testing guidance to a small team of 3-4 testers.
+•  Experience in using various testing methodologies and tools is essential. In addition, they should have experience translating project requirements to test requirements, writing test cases, scripts, identifying or creating test data and executing test cases. The candidate should know how to record results in a system logging and tracking defects in system.
+•  Subject Matter Expert (SME) in Testing and QA with deep functional knowledge in:
+    a. Child Care
+=======================================================================================================================================================
